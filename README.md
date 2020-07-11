@@ -1,7 +1,7 @@
 
 
 <p align="center"><img width=100% src="https://github.com/khan-rehan/khan-rehan/blob/master/assets/portfolio.png"></p>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) [Twitter](https://twitter.com/_rehan2599_)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) 
 
 <!--
 **khan-rehan/khan-rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
