@@ -1,8 +1,10 @@
 
 
 <p align="center"><img width=100% src="https://github.com/khan-rehan/khan-rehan/blob/master/assets/portfolio.png"></p>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) 
-[Covid 19 API](https://api.covid19api.com/summary)
+- 📫 How to reach me: 
+
+[LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) 
+
 
 **Wanna take look at my website??** 👉🏻👉🏻[ Visit Webiste](http://covid-19rk.epizy.com/)
 
