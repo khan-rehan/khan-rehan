@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img width=100% src="https://github.com/khan-rehan/khan-rehan/blob/master/assets/portfolio.mp4"></p>
+
 <!--
 **khan-rehan/khan-rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
