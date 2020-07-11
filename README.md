@@ -4,7 +4,8 @@
 
 - 📫 How to reach me: 
 
-[LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) [Twitter](https://www.linkedin.com/in/rehan-khan2599/)
+[1] [LinkedIn](https://www.linkedin.com/in/rehan-khan2599/) 
+[2] [Twitter](https://twitter.com/_rehan2599_)
 
 
 
