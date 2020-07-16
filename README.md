@@ -1,6 +1,5 @@
 
 
-<p align="center"><img width=100% src="https://github.com/khan-rehan/khan-rehan/blob/master/assets/portfolio.png"></p>
 
 ### Hola, I'm Rehan Khan! 👋
 
@@ -27,4 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p align="center"><img width=100% src="https://github.com/khan-rehan/khan-rehan/blob/master/assets/portfolio.png"></p>
 -->
