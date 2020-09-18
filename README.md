@@ -3,7 +3,6 @@
 
 ### Hola, I'm Rehan Khan! 👋
 
-- 🔭 I’m currently working on Something which i cant reveal now!(RELATED TO WEB DEVELOPEMENT AND DATA SCIENCE).
 - 🌱 I’m currently learning Computer Vision.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @_rehan2599_](https://twitter.com/_rehan2599_) , [LinkedIn - @Khan Rehan](https://www.linkedin.com/in/rehan-khan2599/)
