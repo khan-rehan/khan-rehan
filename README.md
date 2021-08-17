@@ -3,11 +3,10 @@
 
 ### Hola, I'm Rehan Khan! 👋
 
-- 🌱 I’m currently learning Computer Vision.
+- 🌱 I’m currently learning iOS App development.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @_rehan2599_](https://twitter.com/_rehan2599_) , [LinkedIn - @Khan Rehan](https://www.linkedin.com/in/rehan-khan2599/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening music everyday.
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=khan-rehan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
